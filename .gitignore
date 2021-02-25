@@ -1,3 +1,5 @@
+/app/storage
+/app/config/database.php
 .DS_Store
 Thumbs.db
 /.idea
